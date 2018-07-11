@@ -1,0 +1,15 @@
+current directory: /Users/takashi-ogura/personal/rails_project/girls01/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/takashi-ogura/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180711-23170-10h43vp.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takashi-ogura/personal/rails_project/girls01/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/takashi-ogura/personal/rails_project/girls01/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/takashi-ogura/personal/rails_project/girls01/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20180711-23170-1nhqy1q/bindex
